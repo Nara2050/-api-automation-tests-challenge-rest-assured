@@ -1,0 +1,1 @@
+{"uuid":"f69599a6-d3ce-4e42-b877-5b0b161a5fa0","name":"CreateAuthToken()","children":["17ba81ce-c0e2-492e-841f-14305b017e42"],"befores":[{"name":"setRequest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673199022814,"stop":1673199023100}],"afters":[],"start":1673199022754,"stop":1673199026778}
