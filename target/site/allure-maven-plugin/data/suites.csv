@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 08 15:45:05 GMT-03:00 2023","Sun Jan 08 15:45:07 GMT-03:00 2023","1796","","BookingTests","","BookingTests","CreateAuthToken","CreateAuthToken()",""
+"passed","Sun Jan 08 15:44:57 GMT-03:00 2023","Sun Jan 08 15:45:04 GMT-03:00 2023","6965","","BookingTests","","BookingTests","getAllBookingsByTotalPrice","getAllBookingsByTotalPrice()",""
+"failed","Sun Jan 08 15:45:07 GMT-03:00 2023","Sun Jan 08 15:45:07 GMT-03:00 2023","819","","BookingTests","","BookingTests","DeleteBooking","DeleteBooking()",""
+"passed","Sun Jan 08 15:45:11 GMT-03:00 2023","Sun Jan 08 15:45:11 GMT-03:00 2023","801","","BookingTests","","BookingTests","getBookingById_returnOk","getBookingById_returnOk()",""
+"passed","Sun Jan 08 15:45:07 GMT-03:00 2023","Sun Jan 08 15:45:09 GMT-03:00 2023","1451","","BookingTests","","BookingTests","getAllBookingsById_returnOk","getAllBookingsById_returnOk()",""
+"passed","Sun Jan 08 15:45:09 GMT-03:00 2023","Sun Jan 08 15:45:11 GMT-03:00 2023","1717","","BookingTests","","BookingTests","CreateBooking_WithValidData_returnOk","CreateBooking_WithValidData_returnOk()",""
+"broken","Sun Jan 08 14:21:34 GMT-03:00 2023","Sun Jan 08 14:21:37 GMT-03:00 2023","3589","","BookingTests","","BookingTests","UpDateBooking_WithValidData_returnOk","UpDateBooking_WithValidData_returnOk()",""
